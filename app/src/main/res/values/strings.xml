@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Irresistible</string>
+    <string name="app_name">Resistor App</string>
+    <string name="results">Results</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="blank">Blank</string>
+    <string name="calculate">Calculate</string>
+    <string name="please_select_first_band_color">Please select first band color.</string>
+    <string name="irresistible">Irresistible</string>
+    <string name="app_logo">App Logo</string>
+    <string name="resistor_outline">Resistor Outline</string>
+    <string name="buy">Buy</string>
 </resources>
